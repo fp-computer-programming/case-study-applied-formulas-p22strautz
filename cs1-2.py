@@ -13,6 +13,3 @@ value = str(value)
 time = str(time)
 
 print("Your inital investment value after " + time + " " + "years is " + value)
-
-
-
